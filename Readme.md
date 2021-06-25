@@ -1,0 +1,1 @@
+This project work only in script.js other file are from Codecademy.
